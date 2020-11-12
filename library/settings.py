@@ -28,7 +28,7 @@ SECRET_KEY = '-9e(%vj21g4)4bg%cs_h5k-ju!$1%w=*s4)(q17pml6pp!&9^m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://livraria-bit.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
